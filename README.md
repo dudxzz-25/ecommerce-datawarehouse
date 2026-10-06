@@ -1,5 +1,13 @@
 # E-commerce Data Warehouse
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-ETL-3776AB?logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-Star%20Schema-4479A1">
+  <img alt="Data Warehouse" src="https://img.shields.io/badge/Data%20Warehouse-Dimensional-6B46C1">
+  <a href="https://github.com/dudxzz-25/ecommerce-datawarehouse/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/dudxzz-25/ecommerce-datawarehouse/actions/workflows/ci.yml/badge.svg"></a>
+</p>
+
+
 [![CI](https://github.com/dudxzz-25/ecommerce-datawarehouse/actions/workflows/ci.yml/badge.svg)](https://github.com/dudxzz-25/ecommerce-datawarehouse/actions/workflows/ci.yml)
 
 Mini **Data Warehouse em modelo estrela** para análise de vendas. O projeto transforma arquivos operacionais em dimensões e tabela fato, aplica ETL em Python e disponibiliza consultas analíticas em SQL.
